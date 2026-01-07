@@ -2,7 +2,7 @@
 <p align="center">The following list contains CP platforms where you can practice competitive programming problems!</p>
 <Br>
 
->Note:
+>Note: USACO and MHC, Aka "Meta Hacker Cup," aren't regular CP-Platforms like Codechef, Codeforces, etc. They're mentioned here, as you can practice CP-Problems in their Platforms and check the Verdict!
 
 <Br>
 
