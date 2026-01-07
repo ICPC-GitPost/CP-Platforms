@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td><a href="https://www.codechef.com/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/CodeChef.png" width="110"/></td>
-    <td><a href="https://www.atcoder.com/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/AtCoder.png" width="110"/></td>
+    <td><a href="https://www.atcoder.jp/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/AtCoder.png" width="110"/></td>
     <td><a href="https://www.leetcode.com/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/LeetCode.png" width="110"/></td>
     <td><a href="https://www.topcodert.com/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/TopCoder.png" width="110"/></td>
     <td><a href="https://www.hackerearth.com/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/HackerEarth.png" width="110"/></td>
